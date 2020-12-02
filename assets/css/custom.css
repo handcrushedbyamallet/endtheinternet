@@ -1,6 +1,6 @@
 * {
 	outline: none;
-	--theme-color: #f78e66;
+	--theme-color: white;
 }
 body {
 	color: rgb(167, 158, 139) !important;
@@ -8,6 +8,11 @@ body {
 
 img {
 	max-width: 100% !important;
+}
+
+h3 {
+	background-color: rgb(255, 240, 240);
+	margin-bottom: 0px;
 }
 
 /* header */
@@ -19,7 +24,7 @@ header {
 }
 
 header * {
-	color: var(--theme-color) !important;
+	/* color: var(--theme-color) !important; */
 	font-size: 2rem !important;
 }
 

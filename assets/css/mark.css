@@ -10,8 +10,14 @@ p {
 	box-sizing: border-box !important;
 	word-wrap: break-word !important;
 	text-align: justify;
-	margin: 20px 0 !important;
+	margin: 20px 20px !important;
+	color: white;
 }
+
+main {
+	background: rgb(69, 182, 148)
+}
+
 
 blockquote {
 	border-left: 4px solid #42b983;
@@ -28,7 +34,8 @@ strong {
 body {
 	font-size: 15px;
 	/* background: #000c07; */
-	background: rgb(16, 20, 23) !important;
+	/* background: rgb(16, 20, 23) !important; */
+	background: url("../../images/woman_improved.jpg");
 }
 
 pre {
@@ -77,9 +84,13 @@ h2 {
 	font-size: 18px !important;
 }
 
+h3 {
+	color: black;
+}
+
 a {
 	/* color: #ffa0c0 !important; */
-	color: #2ab375 !important;
+	color: black !important;
 	text-decoration: none;
 }
 

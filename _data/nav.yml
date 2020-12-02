@@ -1,8 +1,5 @@
 list:
-  - title: Home
+  - title: Mission
     url: ""
-  - title: About
-    url: about
-  - title: Feed
-    url: feed.xml
-    target: "_blank"
+  - title: Shop
+    url: shop
