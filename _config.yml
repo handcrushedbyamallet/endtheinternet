@@ -1,7 +1,7 @@
 title: EndTheInternet
 markdown: kramdown
 url: ""
-baseurl: "/jekyll-theme-dark-reader"
+baseurl: "/endtheinternet"
 
 # for atom feed
 author:
